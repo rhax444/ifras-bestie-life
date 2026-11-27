@@ -225,7 +225,7 @@ export const FINALE = {
     'Keep smiling, keep being yourself, and never lose that beautiful personality.',
     "Here's to new beginnings, big dreams, endless laughter, and all the happiness you deserve. Keep making the world a little more interesting just by being you. ❤️",
   ],
-  letterSignature: '— Hamza Ali (Tipu) 💕', // who the letter is from
+  letterSignature: '— Hamza Ali 💕', // who the letter is from
   theEnd: 'THE END... OR MAYBE JUST ANOTHER ADVENTURE.',
   playAgain: 'PLAY AGAIN',
 }
