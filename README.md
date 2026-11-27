@@ -1,8 +1,8 @@
-# Ifra's Bestie Life 🏡💜
+# Ifra's Life 🏡💜
 
 *The Little World of Ifra*: a cozy 3D life-simulation game made just for Ifra. Built with React, Vite, Three.js / React Three Fiber, Drei, Tailwind, Framer Motion, Lucide and Howler.js.
 
-**Play it live:** https://ifras-bestie-life.vercel.app
+**Play it live:** https://ifraslife.vercel.app
 
 Every push to `main` deploys automatically to Vercel.
 

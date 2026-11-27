@@ -1,10 +1,10 @@
 // ============================================================================
-//  IFRA'S BESTIE LIFE — GAME CONFIGURATION
+//  IFRA'S LIFE — GAME CONFIGURATION
 //  Edit anything in this file to personalise the game. No engine code needed.
 // ============================================================================
 
 export const FRIEND_NAME = 'Ifra'
-export const GAME_TITLE = "Ifra's Bestie Life"
+export const GAME_TITLE = "Ifra's Life"
 export const GAME_SUBTITLE = 'The Little World of Ifra'
 export const TAGLINE = 'Your life. Your rules. Your questionable decisions.'
 
@@ -223,7 +223,7 @@ export const FINALE = {
     "You make ordinary moments a little more interesting, and I'm genuinely glad to have you in my life.",
     "You deserve your own little world. So here's one.",
     'Keep smiling, keep being yourself, and never lose that beautiful personality.',
-    "And please, don't let this website make you think you're any less annoying. 😂❤️",
+    "Here's to new beginnings, big dreams, endless laughter, and all the happiness you deserve. Keep making the world a little more interesting just by being you. ❤️",
   ],
   letterSignature: '— Hamza Ali (Tipu) 💕', // who the letter is from
   theEnd: 'THE END... OR MAYBE JUST ANOTHER ADVENTURE.',
